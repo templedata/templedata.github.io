@@ -81760,7 +81760,9 @@ A.aig.prototype={
 $0(){this.b.x.y=this.a.a},
 $S:0}
 A.ahY.prototype={
-$0(){this.a.z.sh5(0,"")},
+$0(){var s=this.a
+s.at=0
+s.z.sh5(0,"")},
 $S:0}
 A.ahZ.prototype={
 $4$currentLength$isFocused$maxLength(a,b,c,d){return B.SM},
