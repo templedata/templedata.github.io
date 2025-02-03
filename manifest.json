@@ -1,6 +1,6 @@
 {
-    "name": "templedataform",
-    "short_name": "templedataform",
+    "name": "temple_data_form",
+    "short_name": "temple_data_form",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
